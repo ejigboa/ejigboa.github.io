@@ -1,9 +1,12 @@
 #Data Scientist
 
 #Work Experience
-#Data Scientist - AI Trainer , Outlier AI, Freelance Remote	January 2024 - April 2024
-•	Designed and maintained data pipelines, ensuring efficient and timely data flow.
-•	Enhanced AI models for coding generation, improving process efficiency by 30%.
+
+#Data Scientist 
+
+#AI Trainer , Outlier AI, Freelance Remote	January 2024 - April 2024
+- Designed and maintained data pipelines, ensuring efficient and timely data flow.
+- Enhanced AI models for coding generation, improving process efficiency by 30%.
 •	Conducted data cleansing and visualization to support complex data operations.
 Graduate Research Assistance, Georgia State University, Atlanta	August 2022 - May 2024
 •	Assisted professors with data-driven research, utilizing statistical software (R Programming) and SAS to analyze and interpret data.
