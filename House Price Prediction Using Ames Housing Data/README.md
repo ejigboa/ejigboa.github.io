@@ -1,6 +1,5 @@
 # Ames Housing Data and Kaggle Challenge
 
-Welcome to Project 2! It's time to start modeling.
 
 **Primary Learning Objectives:**
 
