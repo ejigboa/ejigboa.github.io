@@ -19,14 +19,6 @@ Secondly, we are hosting a competition on Kaggle to give you the opportunity to 
 
 As always, you will be submitting a technical report and a presentation. **You may find that the best model for Kaggle is not the best model to address your data science problem.**
 
-## Set-up
-
-Before you begin working on this project, please do the following:
-
-1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ➡️ [Regression Challenge Sign Up](www.cutt.ly/kaggle521) ⬅️ to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSB-521 Regression Challenge](https://www.cutt.ly/kaggle521)
-4. Review the [data description](https://www.kaggle.com/competitions/dsb-521-ames-housing-challenge/data).
 
 ## The Modeling Process
 
