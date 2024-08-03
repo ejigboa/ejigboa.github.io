@@ -2,9 +2,7 @@
 
 ## Work Experience
 
-#Data Scientist 
-
-### AI Trainer , Outlier AI, Freelance Remote	January 2024 - Till Date
+### Data Scientist - AI Trainer , Outlier AI, Freelance Remote	January 2024 - Till Date
 - Designed and maintained data pipelines, ensuring efficient and timely data flow.
 - Enhanced AI models for coding generation, improving process efficiency by 30%.
 - 	Conducted data cleansing and visualization to support complex data operations.
